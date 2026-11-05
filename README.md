@@ -29,7 +29,8 @@ g++ -std=c++11 student_ranking_system.cpp -o student_ranking
 - Project report (Word file)
 
 ## Team
-- [Student 1 Name], UID: [UID 1]
-- [Student 2 Name], UID: [UID 2]
+- [Shagun, UID: 25BCS1178
+- [Saumya], UID: 25BCS10626
 
-Section: 25BCS-705/B · Submitted to: Mr. Anmol Ray (E19861)
+Section: 25BCS-704/A ·
+Submitted to: Mr. Anmol Ray (E19861)
